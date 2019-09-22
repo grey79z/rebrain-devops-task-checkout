@@ -13,7 +13,7 @@ The rest of a line after the `#` sign is considered a comment.
 ## Useful Links
 
 - [Official Nginx Webpage](http://nginx.org/)
-- [Nginx Begginers Guide](http://nginx.org/en/docs/beginners_guide.html)
+- [Nginx Beginners Guide](http://nginx.org/en/docs/beginners_guide.html)
 - [Nginx Changelog](http://hg.nginx.org/nginx/)
 
 ## Contact Me
